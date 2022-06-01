@@ -1,2 +1,9 @@
-# memorize-words
-This is an online word memorization software based on MYSQL and QT
+# QT_在线背单词
+
+#### 介绍
+一款基于MYSQL、QT的背单词软件
+
+#### 安装教程和使用说明
+
+具体的项目描述可以查看我这篇博客，另外代码中给出的注释也很详细。
+
